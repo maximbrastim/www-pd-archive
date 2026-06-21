@@ -1,2 +1,14 @@
 # www-pd-archive
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
